@@ -19,7 +19,7 @@
             }
             base.Dispose(disposing);
         }
-        sddsds
+        //gewgewgewweewgwe
         #region Windows Form Designer generated code
 
         /// <summary>
